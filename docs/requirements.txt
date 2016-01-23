@@ -1,0 +1,3 @@
+Sphinx==1.3.3
+sphinx-rtd-theme==0.1.9
+sphinxcontrib-cldomain==0.13

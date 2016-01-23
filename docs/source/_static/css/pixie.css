@@ -1,0 +1,6 @@
+ @import url("./theme.css");
+code.literal
+{
+	color:#00f !important;
+	font-weight: bold;
+}
