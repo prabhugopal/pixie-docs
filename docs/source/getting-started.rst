@@ -24,11 +24,11 @@ Building from source is currently possible on 4 platforms:
 
 #. OS X
 
-Builing on Arch
+Building on Arch
 ^^^^^^^^^^^^^^^
 ::
 
-	pacman -S libuv libffi python2
+	pacman -S libuv libffi python2 boost
 	mkdir ~/projects/pixie-lang
 	cd ~/projects/pixie-lang
 	git clone https://github.com/pixie-lang/pixie.git
